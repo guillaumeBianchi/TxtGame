@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: "A3.\r\n\r\nVous persistez \xE0 regarder \xE0 travers vos protections.
+    Soudainement, vous voyez un peu mieux le porche de votre maison. Quelqu'un ou
+    quelque chose bloquait la vue !\r\n\r\n1) Vous tendez l'oreille pour entendre
+    quelque chose...\r\n2) Vous reculez !"
+  nextStates:
+  - {fileID: 11400000, guid: cf977dc7c0623ca49a925b65842be6ab, type: 2}
+  - {fileID: 11400000, guid: 14e393ebb45463a4fa43ba4dd9e95405, type: 2}

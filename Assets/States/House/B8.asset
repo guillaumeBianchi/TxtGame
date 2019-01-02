@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: B8
+  m_EditorClassIdentifier: 
+  storyText: "B8.\r\n\r\nUne cr\xE9ature vous saute dessus ! Agripp\xE9e \xE0 vous
+    elle essaye de vous planter un dard dans le cou. Vous la repoussez ! Elle est
+    l\xE0 face \xE0 vous dans l'ombre; Vous distinguez un cr\xE2ne et des yeux disproportionn\xE9s,
+    sans bouche avec une peau grise. Elle vous regarde fixement. Vous apercevez son
+    dard, il lui sort du bras. Il commence \xE0 \xE9mettre un gaz lentement dans la
+    pi\xE8ce.\r\n\r\n1) Le gaz p\xE9n\xE8tre vos narines. A cause de la fatigue et
+    surement \xE0 cause de l'effet du gaz, vous essayez de l'arr\xEAter, sans succ\xE9s...
+    Vous vous endormez."
+  nextStates:
+  - {fileID: 11400000, guid: 8298a4fe6b3117345b8c9eedb15c02d1, type: 2}

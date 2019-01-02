@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: A10
+  m_EditorClassIdentifier: 
+  storyText: "A10.\r\n\r\nVous apercevez une cr\xE9ature au dessus de vous! Vous tirez
+    ! Son corps tombe \xE0 terre; un cr\xE2ne et des yeux disproportionn\xE9s, sans
+    bouche, une peau grise. Son regard est vide. Vous apercevez un dard qui lui sort
+    du bras; surement essayait-elle de vous empoisonner.\r\n\r\n1) Fin..."
+  nextStates:
+  - {fileID: 11400000, guid: 5d169f4239b6cac40a5a436f16a03869, type: 2}

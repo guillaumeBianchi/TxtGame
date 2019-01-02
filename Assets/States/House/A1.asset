@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "A1.\r\n\r\nVous vous dirigez vers l'entr\xE9e. A travers les barricades
+    install\xE9es aux portes et aux fen\xEAtres vous essayez de voir si quelqu'un
+    ou quelque chose se trouve dehors. Que du noir, impossible de distinguer la moindre
+    forme:\r\n\r\n1) Vous continuez de regarder\r\n2) Vous faites demi-tour"
+  nextStates:
+  - {fileID: 11400000, guid: 4fc2515d58490214daf47b0d1bd03aec, type: 2}
+  - {fileID: 11400000, guid: 9a97c2993fd9f1640810a97cbd5c1239, type: 2}

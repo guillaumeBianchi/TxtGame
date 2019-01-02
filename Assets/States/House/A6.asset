@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: A6
+  m_EditorClassIdentifier: 
+  storyText: "A6.\r\n\r\nVous entendez le parquet grincer ! \xC7a se rapproche !\r\n\r\n1)
+    Vous vous pr\xE9cipitez sur le mur derri\xE8re vous pour attraper le fusil qui
+    y est accroch\xE9\r\n2) Vous attrapez une lampe \xE0 c\xF4t\xE9 de vous sans quitter
+    du regard l'endroit o\xF9 grince le parquet"
+  nextStates:
+  - {fileID: 11400000, guid: db312301884b16a43a6cbd4916956299, type: 2}
+  - {fileID: 11400000, guid: d329678543f8b1b46b26ee7c5cc86fdd, type: 2}

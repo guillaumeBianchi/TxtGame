@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c018a9727b0dff54eb42544f479ac9f2, type: 3}
+  m_Name: A7
+  m_EditorClassIdentifier: 
+  storyText: "A7.\r\n\r\n\xC7a se rapproche encore ! O\xF9 est-il ?!\r\n\r\n1) Vous
+    reculez\r\n2) Vous regardez autour de vous"
+  nextStates:
+  - {fileID: 11400000, guid: 64054f9f34cd2bd4b97b5c748a38a092, type: 2}
+  - {fileID: 11400000, guid: 2ab65d3ea7816984f9120fe985b7ec2f, type: 2}
